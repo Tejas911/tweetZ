@@ -6,7 +6,8 @@ In this project, I've developed a sophisticated sentiment analysis model tailore
 
 
 ## 📁 Working
-![LLaMA2 7B](ASSETS/llama2 7b.png)
+ ![LLaMA2 7B](ASSETS/llama2_7b.png)
+
 In this project, leveraging the power of LLaMA2 7B, I've engineered a cutting-edge sentiment analysis model finely tuned to classify tweets into positive, neutral, or negative sentiments with remarkable accuracy. Understanding the pivotal role of discerning public sentiment on social media, my model excels in capturing nuanced emotional tones.
 
 ## Evaluation Metrics
