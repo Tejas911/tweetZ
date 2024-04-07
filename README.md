@@ -8,10 +8,10 @@ In this project, I've developed a sophisticated sentiment analysis model tailore
 ## 📁 Working
  ![LLaMA2 7B](ASSETS/llama2_7b.png)
 
-In this project, leveraging the power of LLaMA2 7B, I've engineered a cutting-edge sentiment analysis model finely tuned to classify tweets into positive, neutral, or negative sentiments with remarkable accuracy. Understanding the pivotal role of discerning public sentiment on social media, my model excels in capturing nuanced emotional tones.
+Naive Bayes classifies tweets into three sentiment categories based on word frequencies. Then, LLaMA2 7B, a language model, generates additional insights by analyzing the context and semantics of the tweets. This combined approach utilizes probabilistic classification and advanced language understanding to provide comprehensive sentiment analysis results, enhancing the depth and accuracy of sentiment interpretation.Understanding the pivotal role of discerning public sentiment on social media, my model excels in capturing nuanced emotional tones.
 
 ## Evaluation Metrics
-In evaluating the sentiment analysis model based on LLaMA2 7B architecture, key metrics such as accuracy, precision, recall, and F1 score were employed, alongside the examination of the confusion matrix. Leveraging a diverse dataset of tweets, the model demonstrated high precision and recall, indicating its proficiency in accurately classifying sentiments. The analysis highlighted the model's effectiveness in capturing nuanced sentiment variations, affirming its suitability for real-world sentiment analysis tasks.
+In evaluating the sentiment analysis model based on Naive Bayes and LLaMA2 7B architecture, key metrics such as accuracy, precision, recall, and F1 score were employed, alongside the examination of the confusion matrix. Leveraging a diverse dataset of tweets, the model demonstrated high precision and recall, indicating its proficiency in accurately classifying sentiments. The analysis highlighted the model's effectiveness in capturing nuanced sentiment variations, affirming its suitability for real-world sentiment analysis tasks.
 
 
 
